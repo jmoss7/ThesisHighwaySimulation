@@ -461,7 +461,8 @@ class ScenarioRunner(object):
 
         # Execute each configuration
         for config in scenario_configurations:
-            for _ in range(self._args.repetitions):
+            for repetition in range(self._args.repetitions):
+                config.trial_number = repetition + 1
                 self.finished = False
                 result = self._load_and_run_scenario(config)
 

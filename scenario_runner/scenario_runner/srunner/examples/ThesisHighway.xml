@@ -3,4 +3,13 @@
     <scenario name="ThesisHighway_1" type="ThesisScenario" town="Town04">
         <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
     </scenario>
+    <scenario name="ThesisHighway_L3" type="ThesisScenarioL3" town="Town04">
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="ThesisHighway_L1" type="ThesisScenarioL1" town="Town04">
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+    <scenario name="ThesisHighway_L2" type="ThesisScenarioL2" town="Town04">
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
 </scenarios>
