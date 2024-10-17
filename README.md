@@ -1,6 +1,7 @@
 # Thesis code Repository
 
 - This repository contains the code for my simulations in my Master Thesis: Simulating Ethical Dilemmas in Autonomous Vehicles
+- Only the modified files from Scenario Runner were included
 
 ## How to run scenarios:
 - Requires installation of CARLA WindowsNoEditor version 0.9.15, and a matching installation of ScenarioRunner (0.9.15 Windows)
