@@ -16,4 +16,4 @@
 Special thanks to the HPAI team for their support in designing the scenario and providing feedback on the final paper.
 
 # Thesis Document
-The full text of the thesis will be added here upon gaining permission from the UPC. Thanks!
+Available for download [here](https://upcommons.upc.edu/handle/2117/420299)
