@@ -17,3 +17,8 @@ Special thanks to the HPAI team for their support in designing the scenario and 
 
 # Thesis Document
 Available for download [here](https://upcommons.upc.edu/handle/2117/420299)
+
+# Video Demos
+- [L1 Configuration example trial](https://drive.google.com/file/d/1pDW7AIpNiGMkawFn2wgxHuVUuPhNep8k/view?usp=drive_link)
+- [L2B Configuration example trial](https://drive.google.com/file/d/13EyFGl7X2pqcxAYIQ-n3Ao3jdCju4dn6/view?usp=drive_link)
+- [L3 Configuration example trial](https://drive.google.com/file/d/1M0-vUHNjQpH0G40aplSmCaRlOUcRwuSF/view?usp=drive_link)
